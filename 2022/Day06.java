@@ -60,14 +60,6 @@ class Day06 {
             boolean exists = false;
             for(String x: characters)
             {
-                if characters
-
-
-
-
-            if(){
-                answer = i;
-                break;
             }
             }
 
